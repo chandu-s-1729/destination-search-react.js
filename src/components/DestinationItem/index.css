@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.list-item {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.item-image {
+  width: 180px;
+  height: 130px;
+}
+
+.item-name {
+  color: #0f172a;
+  font-family: 'Open Sans';
+  font-size: 10px;
+  font-weight: bold;
+}
